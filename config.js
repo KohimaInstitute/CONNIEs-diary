@@ -135,7 +135,7 @@ var config = {
             id: 'tAMLU',
             title: 'TAMLU',
             image: 'https://i.ibb.co/X8VPgSj/Couple-Tamlu.jpg',
-            description: 'A Couple at Tamlu',
+            description: 'A couple at Tamlu',
             location: {
                 center: [94.73749, 26.66219],
                 zoom: 10.00,
